@@ -6,7 +6,7 @@ built for DLBDSME01 – Model Engineering (Task 1).
 ## Files
 
 - `breast_cancer_case_study.py` — the full analysis: data exploration, model training, and interpretation
-- `Date_Zach_Simpson_32212726_DLBDSME01.docx` — the written case study
+- `20260918_Zach_Simpson_32212726_DLBDSME01.docx` — the written case study
 - `figures/` — generated automatically when you run the script (charts and plots)
 - `models/` — generated automatically when you run the script (trained model + results)
 
